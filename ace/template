@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">    
+    
+<meta charset="UTF-8">
+
+<title>Ace in the Hole Multisport Events</title>
+
+<link href="https://fonts.googleapis.com/css?family=Hind+Guntur&display=swap" rel="stylesheet">
+<link href="styles/styles.css" rel="stylesheet" type="text/css">
+<link href="styles/navigation.css" rel="stylesheet" type="text/css">
+<link href="styles/reset.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+    
+<header class="header">
+
+<input class="menu-btn" type="checkbox" id="menu-btn" />
+<label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+
+<ul class="menu">
+    <li><a href="#home" target="_self">Home</a></li>
+    <li><a href="#about" target="_self">About</a></li>
+	<li><a href="register/index.php" target="_self">Register</a></li>
+	<li><a href="#gallery" target="_self">Gallery</a></li>
+    <li><a href="contact/index.php" target="_self">Contact</a></li>
+</ul>
+
+
+</header>
+
+<section class="hero-image">
+  <div class="hero-text">
+    <img src="images/logo_white.png" id="logo">
+  </div>
+</section>
+
+
+<main>
+
+
+</main>
+
+<section class="hero-image">
+  <div class="hero-text">
+  </div>
+</section>
+
+<footer class="footer">
+<!-- Once you've created social media profiles, add a direct hyperlink to these images -->
+	<a target="_blank" href='https://www.instagram.com'><img src="images/insta.png" alt="instagram icon"/></a>
+	<a target="_blank" href='https://facebook.com'><img src="images/facebook.png" alt="facebook icon"/></a>
+	<a target="_blank" href='https://twitter.com'><img src="images/twitter.png" alt="twitter icon"/></a>
+
+</footer>
+
+</body>
+
+</html>
